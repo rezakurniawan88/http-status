@@ -1,7 +1,7 @@
 ## INSTALLATION
 
 ``` bash
-$ git clone https://github.com/rezakurniawan88/http-status
+$ git clone https://github.com/rezakurniawan88/http-status.git
 $ cd http-status
 $ pip3 install requests
 ```
