@@ -1,9 +1,16 @@
 ## INSTALLATION
 
+1. Clone repository :
 ``` bash
-$ git clone https://github.com/rezakurniawan88/http-status.git
-$ cd http-status
-$ pip3 install requests
+git clone https://github.com/rezakurniawan88/http-status.git
+```
+2. Change directory to http-status
+```bash
+cd http-status
+```
+3. Install requests module
+```bash
+pip3 install requests
 ```
 
 ## HOW TO USE
